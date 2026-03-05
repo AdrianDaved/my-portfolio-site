@@ -27,8 +27,8 @@ export default function Main() {
 
   return (
     <div className="flex flex-col items-center justify-center text-center">
-      <p className="text-blue-500 text-sm md:text-base font-semibold mb-6">
-        WELCOME TO MY PORTFOLIO
+      <p className="text-blue-500 text-sm md:text-base font-semibold mb-6 uppercase">
+        Welcome to my portfolio
       </p>
 
       <h1 className="text-white text-5xl md:text-7xl font-bold mb-6">
